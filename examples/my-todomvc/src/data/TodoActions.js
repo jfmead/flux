@@ -7,7 +7,7 @@ const Actions = {
       type: TodoActionTypes.ADD_TODO,
       text,
     })
-  }
+  },
 }
 
 export default Actions;
